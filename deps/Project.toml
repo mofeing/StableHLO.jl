@@ -1,0 +1,4 @@
+[deps]
+BinaryBuilderBase = "7f725544-6523-48cd-82d1-3fa08ff4056e"
+LibGit2 = "76f85450-5226-5b5a-8eaa-529ad045b433"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
